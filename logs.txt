@@ -1,0 +1,3 @@
+2021-09-14 14:18:14.347012 --- extra data delete2021-09-14 14:18:57.245014 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
+2021-09-14 14:25:00.586349 --- extra data delete2021-09-14 14:25:41.070529 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
+2021-09-14 15:39:23.227683 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-14.BAK
