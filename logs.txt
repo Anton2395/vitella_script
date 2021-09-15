@@ -1,9 +1,29 @@
-2021-09-14 14:18:14.347012 --- extra data delete2021-09-14 14:18:57.245014 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
-2021-09-14 14:25:00.586349 --- extra data delete2021-09-14 14:25:41.070529 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
+2021-09-14 14:18:14.347012 --- extra data delete
+2021-09-14 14:18:57.245014 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
+2021-09-14 14:25:00.586349 --- extra data delete
+2021-09-14 14:25:41.070529 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-14.BAK
 2021-09-14 15:39:23.227683 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-14.BAK
-2021-09-15 09:56:12.482075 --- extra data delete2021-09-15 09:57:04.208034 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 09:56:12.482075 --- extra data delete
+2021-09-15 09:57:04.208034 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
 2021-09-15 11:10:47.471167 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-15.BAK
 2021-09-15 11:10:47.690178 --- local BACKUP delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
-2021-09-15 11:25:11.018555 --- extra data delete2021-09-15 11:25:54.084019 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 11:25:11.018555 --- extra data delete
+2021-09-15 11:25:54.084019 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
 2021-09-15 12:40:21.381432 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-15.BAK
 2021-09-15 12:40:21.498438 --- local BACKUP delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 13:37:29.783485 --- extra data delete
+2021-09-15 13:38:13.191501 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 13:38:14.959510 --- old BACKUP from cloud delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 14:51:53.948908 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 14:54:47.344464 --- local BACKUP delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 14:59:31.451137 --- extra data delete
+2021-09-15 15:00:15.826685 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 15:00:17.587786 --- old BACKUP from cloud delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 15:28:19.908885 --- extra data delete
+2021-09-15 15:29:04.709195 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 15:29:05.662206 --- old BACKUP from cloud delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 15:32:12.133311 --- extra data delete
+2021-09-15 15:37:28.741226 --- create local BACKUP --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 15:37:29.556248 --- old BACKUP from cloud delited --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 16:51:18.684781 --- local BACKUP load to cloud --- name file:$BACKUP_ReportData_2021-09-15.BAK
+2021-09-15 16:51:18.734781 --- local BACKUP delited --- name file:$BACKUP_ReportData_2021-09-15.BAK

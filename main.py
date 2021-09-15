@@ -2,8 +2,7 @@ import pyodbc
 import datetime
 import time
 
-# from Google_load import log_in
-# from Google_load import load_new_backup
+
 from Google_load import GoogleDriveMy
 
 from DB_MS_SQL import conect_to_DB
@@ -48,7 +47,7 @@ if __name__ == '__main__':
 	end = time.time()
 	print(f'LOAD_new_backup_cloud --- {str(round((end-start)/60, 2))} min')
 
-	#удаление локальной резервной копии 
+	#удаление локальной резервной копии
 	start = time.time()
 	delete_backup_file_local(setting, logs)
 	end = time.time()

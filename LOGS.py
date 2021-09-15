@@ -8,7 +8,7 @@ class Logs:
 		self.logs_file = open("logs.txt", "a")
 
 	def append_data_delete(self):
-		self.logs_file.write(f'{datetime.datetime.now()} --- extra data delete')
+		self.logs_file.write(f'{datetime.datetime.now()} --- extra data delete\n')
 		#
 
 	def append_create_backup(self, name_file):
