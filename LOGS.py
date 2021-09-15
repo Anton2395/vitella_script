@@ -4,6 +4,7 @@ import datetime
 class Logs:
 	"""класс создания и редактирование лог файла"""
 	def __init__(self):
+		#открытие или создание файла логов
 		self.logs_file = open("logs.txt", "a")
 
 	def append_data_delete(self):
@@ -23,6 +24,7 @@ class Logs:
 		
 	def append_delete_old_backup_cloude(self, name_file):
 		self.logs_file.write(f'{datetime.datetime.now()} --- old BACKUP from cloud delited --- name file:${name_file}\n')
+		#
 
 	def close_file(self):
 		self.logs_file.close()

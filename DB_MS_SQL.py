@@ -27,6 +27,7 @@ def create_backup_file(cursor, setting, logs):
 	logs.append_create_backup(setting.name_file)
 
 def delete_backup_file_local(setting, logs):
+	"""Удаление файла локальной резервной копии БД"""
 	path = os.path.join(os.path.abspath(os.path.dirname(__file__)), setting.name_file)
 	os.remove(path)
 	logs.append_delete_backup_local(setting.name_file)
