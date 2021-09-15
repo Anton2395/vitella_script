@@ -2,6 +2,7 @@ import pyodbc
 import datetime
 import os
 
+
 def conect_to_DB():
 	"""Подключение к базе данных"""
 	con = pyodbc.connect(

@@ -14,6 +14,7 @@ class Settings:
 			self.conf_last_name = json.loads(file.read())["last_name"]
 
 	def rewrite_conf(self):
+		#метод перезаписи conf файла
 		conf = {"last_name": self.name_file}
 		with open("conf", "w") as file:
 			file.write(json.dumps(conf))
