@@ -15,7 +15,7 @@ class GoogleDriveMy:
 	def load_new_backup(self, setting, logs):
 		#метод загрузки резервной копии в облочное хранилище
 		file = self.drive.CreateFile({'parents': [{'id': setting.folder_cloud}]})
-		file.SetContentFile(setting.name_file)
+		file.SetContentFile(setting.zip_name_file)
 		file.Upload()
 		logs.append_load_backup_to_cloud(setting.name_file)
 
